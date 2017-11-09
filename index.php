@@ -1,0 +1,1 @@
+<?php header("Location: Documentos/index.php"); ?>
